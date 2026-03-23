@@ -1,6 +1,8 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-jupyter
+numpy==2.4.3
+pandas==2.3.3
+scikit-learn==1.8.0
+matplotlib==3.10.8
+seaborn==0.13.2
+streamlit==1.55.0
+plotly==6.6.0
+ucimlrepo==0.0.7
